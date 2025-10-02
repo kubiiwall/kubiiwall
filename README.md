@@ -1,16 +1,16 @@
-*"In the era of AI-first businesses, security and compliance can no longer be an afterthought.  **Kubiiwall** is the shield that keeps your AI applications, agents, and models safe, compliant, and resilient—so you can innovate with confidence."*  
+*"In the era of AI-first businesses, security and compliance can no longer be an afterthought.  **KubiiWALL** is the shield that keeps your AI applications, agents, and models safe, compliant, and resilient—so you can innovate with confidence."*  
 
 ### Overview  
 
-**Kubiiwall** is the next-generation security and compliance platform purpose-built for protecting **AI applications, LLM/SLM deployments, and AI-driven agents** across **cloud, hybrid, and edge environments**.  
+**KubiiWALL** is the next-generation security and compliance platform purpose-built for protecting **AI applications, LLM/SLM deployments, and AI-driven agents** across **cloud, hybrid, and edge environments**.  
 
-As organizations rapidly adopt AI into mission-critical workflows, they face unprecedented risks: model misuse, adversarial attacks, API abuse, compliance gaps, and identity-based threats. Kubiiwall provides **continuous posture assessment**, **real-time threat detection**, and **policy-driven enforcement** at both **deployment and runtime**, ensuring your AI systems remain **trustworthy, compliant, and resilient**.  
+As organizations rapidly adopt AI into mission-critical workflows, they face unprecedented risks: model misuse, adversarial attacks, API abuse, compliance gaps, and identity-based threats. **KubiiWALL** provides **continuous posture assessment**, **real-time threat detection**, and **policy-driven enforcement** at both **deployment and runtime**, ensuring your AI systems remain **trustworthy, compliant, and resilient**.  
 
-With **transaction-level anomaly detection, user identity mapping, access control enforcement, and automated compliance auditing**, Kubiiwall empowers enterprises to **deploy AI securely, scale confidently, and meet global regulatory mandates** without compromising innovation.  
+With **transaction-level anomaly detection, user identity mapping, access control enforcement, and automated compliance auditing**, **KubiiWALL** empowers enterprises to **deploy AI securely, scale confidently, and meet global regulatory mandates** without compromising innovation.  
 
 ---
 
-### Key Security Threats & Compliance Challenges that **Kubiiwall** addresses   
+### Key Security Threats & Compliance Challenges that **KubiiWALL** addresses   
 
 #### Security Threats for LLM/SLM & AI Applications  
 - **Model Exploitation & Prompt Injection** – Malicious prompts or queries manipulating model behavior.  
@@ -30,7 +30,7 @@ With **transaction-level anomaly detection, user identity mapping, access contro
 - **Data Residency & Sovereignty** – Ensuring AI workloads respect jurisdictional data handling laws.  
 - **Runtime Compliance Enforcement** – Policy-driven controls that adapt across single, multi-cloud, and on-prem deployments.
 
-#### Deployment modes that Kubiiwall Supports
+#### Deployment modes that **KubiiWALL** Supports
 
 ##### Scenario 1:
 <img width="1251" height="799" alt="image" src="https://github.com/user-attachments/assets/7133472b-61b6-40ce-a6da-facd37b60800" />
